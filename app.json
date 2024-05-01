@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "CodeEditorApp",
+    "slug": "CodeEditorApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./i.jpg",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./i.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./i.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.abubakr2013.CodeEditorApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2c9a88dd-5d23-47f2-b61e-242619cc1662"
+      }
+    }
+  }
+}
